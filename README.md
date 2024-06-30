@@ -42,3 +42,4 @@ Responsive frameworks (Bootstrap, Foundation)
  Structured process with design iterations and testing.
 
 
+<img width="960" alt="Screenshot 2024-06-30 154114" src="https://github.com/dines86/CODTECH-Task-1/assets/174235029/b60e1064-ebaa-42a1-b625-75cc3e1563a4">
